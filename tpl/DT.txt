@@ -1,0 +1,27 @@
+﻿<html>
+<body>
+<table border=0 style="font: normal 10pt Arial; color: #0000FF;">
+	<tr><td colspan=2>Доброго времени суток !</td></tr>
+	<tr><td colspan=2>&nbsp;</td></tr>
+	<tr><td colspan=2>Прошу предоставить права доступа к следующим ресурсам:</td></tr>
+	<tr><td width=5%>&nbsp;</td><td>- Терминальный сервер RDP (172.16.8.223);</td></tr>
+	<tr><td width=5%>&nbsp;</td><td>- База данных (ORACLE);</td></tr>
+	<tr><td width=5%>&nbsp;</td><td>- Портал ДТ (http://wias.deltatel.ru:7771/ekc/)</td></tr>
+	<tr><td colspan=2><b>и выслать логины/пароли в обратном письме</b></td></tr>
+	<tr><td>&nbsp;</td><td>для следующих специалистов:</td></tr>
+	<tr><td colspan=2>&nbsp;</td></tr>
+	<tr><td colspan=2>
+			<table border=1>
+				<tr><th>ФИО</th><th>Логин</th><th>e-mail</th></tr>
+				[rows]
+			</table>
+			<br>
+			Заранее спасибо ! :-)<br>
+		</td>
+	</tr>
+</table>
+<br>
+<br>
+[signature]
+</body>
+</html>

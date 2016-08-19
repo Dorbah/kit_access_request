@@ -1,0 +1,15 @@
+﻿<html>
+<body style="font: normal 10pt Arial; color: #0000FF;">
+Доброго времени суток !<br><br>
+Просьба составить служебную записку на доступ к биллингу SBMS Твери<br>
+для следующих специалистов:<br>
+<br>
+<table border=1>
+	<tr><th>ФИО</td><th>Логин</td><th>e-mail</td></tr>
+	[rows]
+</table><br>
+Заранее спасибо ! :-)<br>
+<br>
+[signature]
+</body>
+</html>
